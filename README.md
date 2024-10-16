@@ -2,7 +2,7 @@
 
 ## 👋 **About Me**
 
-I'm a data scientist with a background in mechanical engineering and a deep passion for mathematics, physics, science, and technology. After several years working in product design, I realized my true passion lies in helping companies make better business decisions through data-driven insights. I believe that data is one of the greatest assets a company has, and my goal is to help businesses unlock its full potential.
+I'm a data scientist with a background in mechanical engineering and a strong passion for mathematics, physics, science, and technology. After gaining initial work experience as a mechanical engineer, I realized my true interest lies in helping companies make better business decisions through data-driven insights. I believe that data is one of the greatest assets a company has, and my goal is to help businesses unlock its full potential.
 
 Currently, I am seeking a junior data scientist or data analyst role where I can apply my skills to real-world business challenges. My experience in both engineering and data science allows me to bridge the gap between technical expertise and business impact.
 
