@@ -16,17 +16,17 @@ Currently, I am seeking a junior data scientist or data analyst role where I can
 
 ## 🔥 **Featured Projects**
 
-### [DS Market - Sales Forecasting and Clustering](link_to_repo)
+### [DS Market - Sales Forecasting and Clustering](https://github.com/sisolieri/ds-market-data-science-final-project)
 - **Description**: A real-world business challenge involving sales forecasting at the product-store level using XGBoost. Clustering techniques were used to group products and stores to optimize marketing and inventory management strategies.
 - **Technologies**: Python, XGBoost, KMeans, Scikit-learn, Pandas
 - **Key Results**: Implemented a sales forecasting model with an RMSE of 7-10 units, identified key clusters for more efficient stock management.
 
-### [CIFAR-10 Image Classification with CNNs](link_to_repo)
+### [CIFAR-10 Image Classification with CNNs](https://github.com/sisolieri/CNN-CIFAR10-classification)
 - **Description**: A deep learning project that focuses on image classification using Convolutional Neural Networks (CNNs). Various structural modifications and techniques like data augmentation were applied to improve model performance.
 - **Technologies**: Python, Keras, TensorFlow, CNN, Data Augmentation
 - **Key Results**: Achieved 90.7% accuracy after implementing data augmentation techniques.
 
-### [Public Grants Analysis - Ayuntamiento of Barcelona](link_to_repo)
+### [Public Grants Analysis - Ayuntamiento of Barcelona](https://github.com/sisolieri/Prova_DS_SaloOcupacio2024)
 - **Description**: This project analyzes public grants issued by the Ayuntamiento of Barcelona, focusing on the distribution of funds across various sectors and forecasting future grant amounts. The forecasting model was designed to predict the total grants for September 2024 based on historical data.
 - **Technologies**: Python, Pandas, XGBoost, CatBoost, ARIMA, Matplotlib, Seaborn
 - **Key Results**: 
@@ -35,8 +35,8 @@ Currently, I am seeking a junior data scientist or data analyst role where I can
   - The predictive model is being used as a tool for financial planning, providing valuable insights into the allocation of public resources.
 
 ## 📈 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sisolieri&show_icons=true&theme=radical)
 
 ## 📬 **Contact Me**
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Email**: yourname@example.com
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/simone-solieri/)
+- **Email**: simone.solieri@gmail.com
