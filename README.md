@@ -14,7 +14,7 @@ Currently, I am seeking a junior data scientist or data analyst role where I can
 - **Data Manipulation**: Pandas, NumPy
 - **Data Visualization**: Matplotlib, Seaborn, Power BI
 - **Tools**: Jupyter Notebooks, Git, Docker
-- **Key Areas**: Data Visualization, Data Cleaning and Preprocessing, Time Series Forecasting, Clustering, Feature Engineering, Classification Models, Regression Models
+- **Key Areas**: Data Visualization, Dynamic Dashboards Creation, Data Cleaning and Preprocessing, Time Series Forecasting, Clustering, Feature Engineering, Classification Models, Regression Models
 
 ## 🔥 **Featured Projects**
 
