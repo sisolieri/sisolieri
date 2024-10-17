@@ -34,9 +34,6 @@ Currently, I am seeking a junior data scientist or data analyst role where I can
   - The analysis revealed that sectors like **Culture and Sports** have been prioritized since 2020, while sectors such as **Urban Development** and **Social Rights** have seen decreasing investments.
   - The predictive model is being used as a tool for financial planning, providing valuable insights into the allocation of public resources.
 
-## 📈 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sisolieri&show_icons=true&theme=radical)
-
 ## 📬 **Contact Me**
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/simone-solieri/)
+- **LinkedIn**: https://www.linkedin.com/in/simone-solieri/
 - **Email**: simone.solieri@gmail.com
